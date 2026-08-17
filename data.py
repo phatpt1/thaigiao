@@ -78,5 +78,6 @@ MESSAGES = {
 AUDIOS = {
     "🪷 Kinh Phổ Môn (Giúp mẹ và bé bình an)": "https://www.youtube.com/watch?v=SFO2Xaku3uw", 
     "🪷 Kinh Địa Tạng (Giúp bé ngoan ngoãn, hiếu thảo)": "https://www.youtube.com/watch?v=TrWAdlXliyI",
+    "🪷 Kinh Địa Tạng (Bình An, Cầu Con)": "https://www.youtube.com/watch?v=rlH1N-aA-v4",
     "🌿 Nhạc Thiền Nước Chảy Róc Rách (Thư giãn)": "https://www.youtube.com/watch?v=JJjb_WDWVJs"
 }
