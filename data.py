@@ -71,3 +71,12 @@ MESSAGES = {
     "read_button": "Mẹ Như Ý đã đọc xong cho bé nghe! 🥰",
     "success_msg": "Bé con chắc chắn sẽ rất thích giọng đọc ấm áp của mẹ Như Ý! Chúc hai mẹ con một ngày thật vui vẻ nhé! 👼💖"
 }
+# --- THÊM PHẦN NÀY VÀO CUỐI FILE data.py ---
+
+# Danh sách Kinh / Nhạc thai giáo
+# Bạn có thể dùng link YouTube hoặc tên file .mp3 (nếu tải mp3 lên github)
+AUDIOS = {
+    "🪷 Kinh Phổ Môn (Giúp mẹ và bé bình an)": "https://www.youtube.com/watch?v=2v-B4j8X-dM", 
+    "🪷 Kinh Địa Tạng (Giúp bé ngoan ngoãn, hiếu thảo)": "https://www.youtube.com/watch?v=1F_45f3qQjE",
+    "🌿 Nhạc Thiền Nước Chảy Róc Rách (Thư giãn)": "https://www.youtube.com/watch?v=lCOF9LN_Zxs"
+}
